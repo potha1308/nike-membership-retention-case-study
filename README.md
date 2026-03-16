@@ -209,9 +209,7 @@ Explore the complete project documentation:
 
 This is a product management case study created to demonstrate PM skills and product thinking. It is based on publicly available information about Nike's app and common user pain points identified through app store reviews and UX research. This is not affiliated with Nike, Inc.
 
-**Author**: Potha Yekula  
-**LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-**Portfolio**: [your-portfolio-site.com](https://your-portfolio-site.com)  
+**Author**: Potha Yekula   
 **Medium**: [@potha1308](https://medium.com/@potha1308)
 
 ---
