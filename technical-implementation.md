@@ -244,10 +244,7 @@ This technical implementation validates several key aspects of the Nike membersh
 
 ---
 
-## Repository & Code
-
-**Live Demo**: [Your deployed Vercel URL]  
-**Source Code**: [Your GitHub repository]  
+## Repository & Code 
 **Article**: [Medium Article](https://medium.com/@potha1308/deconstructing-the-giant-how-i-built-an-e-commerce-storefront-faster-than-nike-e07659dfca95)
 
 ---
